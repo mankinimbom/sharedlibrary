@@ -1,4 +1,4 @@
 def GitCheckout(repo)
 {
-  get ${repo}
+  git ${repo}
 }
